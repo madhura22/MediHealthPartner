@@ -1,0 +1,192 @@
+[
+  {
+    "id": "fff6c69b-a902-4daa-a8e1-81eb68b28f6a",
+    "data": [
+      {
+        "text": "Yes sometimes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "85d20973-85fb-4a7d-bf8f-47d12125444d",
+    "data": [
+      {
+        "text": "Yes",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523131041
+  },
+  {
+    "id": "e4f59199-2301-4781-8e5b-7e7bf825760d",
+    "data": [
+      {
+        "text": "No, I dont have any concentration problems",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f47ac0cb-88c7-4bfa-b99f-1e1fd30c367e",
+    "data": [
+      {
+        "text": "Yes",
+        "alias": "positiveBoolean",
+        "meta": "@positiveBoolean",
+        "userDefined": false
+      },
+      {
+        "text": ", I cannot concentrate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523131041
+  },
+  {
+    "id": "b3c1b41f-18f0-4d8a-a362-2c0f366329be",
+    "data": [
+      {
+        "text": "I am lacking concentration these days",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523131041
+  },
+  {
+    "id": "365f3a7a-e5d3-4250-8fa0-07b9f19852dd",
+    "data": [
+      {
+        "text": "i am not able to concentrate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "df2ae994-4fb8-47e5-85dc-b3737626a327",
+    "data": [
+      {
+        "text": "not at all",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524033492
+  },
+  {
+    "id": "5e301348-768c-4d23-8254-e0dc59e5f01c",
+    "data": [
+      {
+        "text": "No, I can manage with my daily tasks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "423c32d7-8b4e-4116-bfc1-4e0f88b9e84d",
+    "data": [
+      {
+        "text": "I am not able to concetrate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523132976
+  },
+  {
+    "id": "5bbbf248-b55f-465e-a5a1-742e330262c6",
+    "data": [
+      {
+        "text": "I find it hard to concentrate on my ",
+        "userDefined": false
+      },
+      {
+        "text": "daily",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " tasks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523131041
+  },
+  {
+    "id": "78272cb8-8212-4822-bbe7-0e417130909b",
+    "data": [
+      {
+        "text": "My concentration levels are ",
+        "userDefined": false
+      },
+      {
+        "text": "bad",
+        "alias": "negativeFeelings",
+        "meta": "@negativeFeelings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523131041
+  },
+  {
+    "id": "b62b6d33-86d9-49f2-b00f-28bd29ad9b9b",
+    "data": [
+      {
+        "text": "I find it hard to concentrate on my daily tasks  sometimes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523131041
+  },
+  {
+    "id": "f058509a-7e4f-4123-b7c8-034597d6948f",
+    "data": [
+      {
+        "text": "yeah",
+        "alias": "positiveBoolean",
+        "meta": "@positiveBoolean",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523131041
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "value": "good",
+    "synonyms": [
+      "healthy",
+      "fine",
+      "sound",
+      "top",
+      "hale",
+      "ok",
+      "fit",
+      "robust",
+      "sturdy",
+      "strong",
+      "pretty good",
+      "nice",
+      "not bad",
+      "can\u0027t complain",
+      "better",
+      "amazing"
+    ]
+  },
+  {
+    "value": "good",
+    "synonyms": [
+      "good"
+    ]
+  },
+  {
+    "value": "great",
+    "synonyms": [
+      "great",
+      "fantastic",
+      "happy",
+      "awesome",
+      "lively",
+      "energetic",
+      "cheer",
+      "cheerful"
+    ]
+  },
+  {
+    "value": "sad",
+    "synonyms": [
+      "sad",
+      "upset",
+      "anxious",
+      "tense",
+      "lack of energy",
+      "dull",
+      "gloomy"
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+{
+  "id": "aa27ee11-45e1-493f-8051-b882b53ca98b",
+  "name": "5.1 - yesAppetite",
+  "auto": true,
+  "contexts": [
+    "getYesAppetite"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "getYesSleepCycle",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "getNoSleepCycle",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "093e5d73-29ab-4da1-b8ca-a85a6b57e3e9",
+          "required": false,
+          "dataType": "@positiveBoolean",
+          "name": "positiveBoolean",
+          "value": "$positiveBoolean",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "That sounds great!  Now, let us talk about your sleep cycle.  \nHave you been sleeping comparatively less or excessive these days?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524694865,
+  "fallbackIntent": false,
+  "events": []
+}

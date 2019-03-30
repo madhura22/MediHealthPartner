@@ -1,0 +1,70 @@
+{
+  "id": "115d0476-2aec-4c43-9ea3-95c5c6f91d36",
+  "name": "5.2 - noAppetite",
+  "auto": true,
+  "contexts": [
+    "getNoAppetite"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "getYesSleepCycle",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "getNoSleepCycle",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "d31e8a48-d2c4-48cc-9251-ede3bf5f2d9e",
+          "required": false,
+          "dataType": "@negativeBoolean",
+          "name": "negativeBoolean",
+          "value": "$negativeBoolean",
+          "isList": false
+        },
+        {
+          "id": "24e3c9b0-a665-431e-9ce9-3f8daea313fb",
+          "required": false,
+          "dataType": "@positiveBoolean",
+          "name": "positiveBoolean",
+          "value": "$positiveBoolean",
+          "isList": false
+        },
+        {
+          "id": "f1f0be3f-f7dc-46be-a8b1-974126ce6d5e",
+          "required": false,
+          "dataType": "@negativeFeelings",
+          "name": "negativeFeelings",
+          "value": "$negativeFeelings",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "That\u0027s not a good sign. It is always better to maintain a healthy diet. \n Let us talk about your sleep cycle.                               \nHave you been sleeping comparatively less or excessive these days?",
+            "Did you forget your medicine?",
+            "Are you eating fruits"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1525060084,
+  "fallbackIntent": false,
+  "events": []
+}

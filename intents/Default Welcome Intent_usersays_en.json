@@ -1,0 +1,139 @@
+[
+  {
+    "id": "c024ca54-9ac0-4739-82a8-34d5f0679d05",
+    "data": [
+      {
+        "text": "Good morning",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523118855
+  },
+  {
+    "id": "6e05321c-6468-4497-be74-2140d1dd1fe1",
+    "data": [
+      {
+        "text": "Hi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "bed2b8e9-2bb4-4856-87e3-e032437b076f",
+    "data": [
+      {
+        "text": "Hi there",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "3a59f5b8-25ac-40d4-8524-d544b9b391fd",
+    "data": [
+      {
+        "text": "#hi.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8dedf87e-49c2-4875-b54a-ac8cc4957ef4",
+    "data": [
+      {
+        "text": "Hello",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523118855
+  },
+  {
+    "id": "b16c15dd-0f60-4ced-94a1-75b3b2652e4e",
+    "data": [
+      {
+        "text": "Hello there",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523118855
+  },
+  {
+    "id": "c1b2d978-0f8f-4e2e-aeff-a69ec52ffd05",
+    "data": [
+      {
+        "text": "Hi ther",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7fe4f2a7-ecb5-48a8-a80b-67182a4c469c",
+    "data": [
+      {
+        "text": "Hey",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523118855
+  },
+  {
+    "id": "1b1ece9f-1c38-4ec4-9e51-180def9235c0",
+    "data": [
+      {
+        "text": "yo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "38472bef-2ce2-490a-9193-bea34529027b",
+    "data": [
+      {
+        "text": "Good",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " afternoon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523118855
+  },
+  {
+    "id": "2367cd34-56ff-4575-a4cc-39cbebb87176",
+    "data": [
+      {
+        "text": "Good evening",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523118855
+  }
+]

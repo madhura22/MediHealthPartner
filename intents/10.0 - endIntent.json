@@ -1,0 +1,33 @@
+{
+  "id": "d31745d6-ac2e-472c-83b8-cc6d069a874b",
+  "name": "10.0 - endIntent",
+  "auto": true,
+  "contexts": [
+    "endContext"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "\"Tough times never last but tough people do\". \nI enjoyed talking to you. I hope you will feel better after talking to me.\nI am always there for you. \nRemember I am just a virtual doctor.\nBye. Take Care",
+            "\"Only you can change your life. No one can do it for you\".\nI had a great time talking to you. I hope you feel healthy and comfortable now.\nI am always there for you. \nRemember I am just a virtual doctor.\nBye. Have a nice day"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523137668,
+  "fallbackIntent": false,
+  "events": []
+}

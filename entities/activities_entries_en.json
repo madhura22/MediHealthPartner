@@ -1,0 +1,100 @@
+[
+  {
+    "value": "reading",
+    "synonyms": [
+      "reading books",
+      "reading novels",
+      "reading comics",
+      "reading newspaper"
+    ]
+  },
+  {
+    "value": "technical",
+    "synonyms": [
+      "technical",
+      "programming",
+      "coding",
+      "solving puzzles",
+      "solving math problems"
+    ]
+  },
+  {
+    "value": "miscellanous",
+    "synonyms": [
+      "miscellanous",
+      "playing with kids",
+      "trying new things"
+    ]
+  },
+  {
+    "value": "outdoor",
+    "synonyms": [
+      "outdoor",
+      "skiiing",
+      "sky-diving",
+      "scuba-diving",
+      "ice-skating",
+      "kayaking",
+      "rafting",
+      "swimming",
+      "travelling",
+      "hiking",
+      "cycling"
+    ]
+  },
+  {
+    "value": "pets",
+    "synonyms": [
+      "pets",
+      "dogs",
+      "cats",
+      "fish",
+      "birds",
+      "hamsters",
+      "puppies",
+      "kittens"
+    ]
+  },
+  {
+    "value": "playing",
+    "synonyms": [
+      "playing",
+      "playing basketball",
+      "playing volleyball",
+      "tennis",
+      "cricket",
+      "badminton",
+      "ping-pong",
+      "foosball",
+      "UNO",
+      "cards"
+    ]
+  },
+  {
+    "value": "entertainment",
+    "synonyms": [
+      "entertainment",
+      "watching movies",
+      "watching tv series",
+      "watching tv",
+      "video games",
+      "mobile games",
+      "browsing"
+    ]
+  },
+  {
+    "value": "art",
+    "synonyms": [
+      "art",
+      "singing",
+      "dancing",
+      "listening to music",
+      "playing violin",
+      "music",
+      "playing guitar",
+      "playing keyboard",
+      "painting",
+      "cooking"
+    ]
+  }
+]

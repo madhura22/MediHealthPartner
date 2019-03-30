@@ -1,0 +1,64 @@
+{
+  "id": "b83165aa-c0cf-43e6-b950-6a24427e53c6",
+  "name": "7.1 - getYesConcentration",
+  "auto": true,
+  "contexts": [
+    "yesConcetration"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "explainActivities",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "47b0830c-3655-4efb-8cf1-e5aed8be89a9",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "any",
+          "value": "$any",
+          "isList": false
+        },
+        {
+          "id": "f31ed315-3d20-4740-808d-4f8a5a7a251f",
+          "required": false,
+          "dataType": "@positiveBoolean",
+          "name": "positiveBoolean",
+          "value": "$positiveBoolean",
+          "isList": false
+        },
+        {
+          "id": "4311ad79-a710-430b-a07c-7f740c699efe",
+          "required": false,
+          "dataType": "@negativeFeelings",
+          "name": "negativeFeelings",
+          "value": "$negativeFeelings",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "I can help you to improve your concentration.\nI found these links online which might be helpful to you. \nhttps://www.artofmanliness.com/2012/08/08/12-concentration-exercises-from-1918/\nhttps://www.theguardian.com/money/2010/jul/24/secret-to-improving-concentration\nNow, Let us talk about the activities that you enjoy the most..",
+            "Here are the quick results that I think will be useful. Check out them .....\nhttps://www.huffingtonpost.com/2013/08/28/how-to-focus_n_3795523.html\nhttps://www.magneticmemorymethod.com/improve-focus/\nI enjoy learning from conversations with people like you. What kind of activities keep you happy?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524033492,
+  "fallbackIntent": false,
+  "events": []
+}

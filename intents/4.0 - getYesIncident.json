@@ -1,0 +1,48 @@
+{
+  "id": "204997e2-1fde-4b7d-a507-975128279c7c",
+  "name": "4.0 - getYesIncident",
+  "auto": true,
+  "contexts": [
+    "getYesIncident"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "getNoIncident",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "778c498a-c2f2-4655-9e64-181d1015ae3a",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "any",
+          "value": "$any",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "\"It\u0027s better to feel pain than nothing at all\"\nLet\u0027s talk about something else...Maybe that will change your mind.",
+            "It\u0027s good that you shared your feelings.\nTo get it off your mind, let us discuss a different subject. Shall we?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523126931,
+  "fallbackIntent": false,
+  "events": []
+}

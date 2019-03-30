@@ -1,0 +1,54 @@
+{
+  "id": "7c4a3414-1847-4ebe-ab0d-7ad07a3006cc",
+  "name": "9.0 - getFriends",
+  "auto": true,
+  "contexts": [
+    "listFriends"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "endContext",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "cf68b882-8bfe-4a77-99f9-3e939d5b38d1",
+          "required": true,
+          "dataType": "@sys.given-name",
+          "name": "given-name",
+          "value": "$given-name",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "I consider you as my friend. You also must be having at least one friend."
+            }
+          ],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Wow! It\u0027s great that you have $given-name as friends. \nStaying in their company will make you better and lighter.\n\"Find your tribe and love them hard\".",
+            "I know that you enjoy and love fun activities. How about doing something fun with $given-name."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524695807,
+  "fallbackIntent": false,
+  "events": []
+}

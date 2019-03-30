@@ -1,0 +1,59 @@
+{
+  "id": "3300c4f4-0831-4128-b7f2-08ec1853dfd8",
+  "name": "8.0 - getActivities",
+  "auto": true,
+  "contexts": [
+    "explainActivities"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "listFriends",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "d569ea00-5454-46da-bc7e-75b9ab1482fe",
+          "required": true,
+          "dataType": "@activities",
+          "name": "activities",
+          "value": "$activities",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Common, I am sure you love something"
+            },
+            {
+              "lang": "en",
+              "value": "There must be something that excites you"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "That\u0027s awesome! So, good to hear that you do such amazing activities. Tell me about your friends...",
+            "That\u0027s awesome! So, good to hear that you do such wonderful activities. Whom do you love being with?",
+            "Hey! What a coincidence! My developers also love these $activities.Tell me about your friends..."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523134983,
+  "fallbackIntent": false,
+  "events": []
+}

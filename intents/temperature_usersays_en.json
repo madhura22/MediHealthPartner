@@ -1,0 +1,68 @@
+[
+  {
+    "id": "21c71a3e-db78-4234-95a9-aa29847c39d2",
+    "data": [
+      {
+        "text": "my body is shivering",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4faa05e2-b3dd-43ac-98a2-62aaeefdb227",
+    "data": [
+      {
+        "text": "feeling cold",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "20f5169c-fe3e-47b7-87b7-cacc1b87bab4",
+    "data": [
+      {
+        "text": "sweating",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "32ec483a-61a8-4f7c-92e7-b260cb38d3cc",
+    "data": [
+      {
+        "text": "feeling chilly",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8333346d-b3f2-4452-99e9-ae466fbafc1f",
+    "data": [
+      {
+        "text": "hot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "984c12a0-f4d1-4525-abbe-ce8fc3dfe217",
+    "data": [
+      {
+        "text": "heat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "value": "body pain",
+    "synonyms": [
+      "body pain",
+      "bodyache",
+      "exhaustion",
+      "exhausted"
+    ]
+  },
+  {
+    "value": "head-ache",
+    "synonyms": [
+      "head-ache",
+      "headpain",
+      "dizzy",
+      "head throbbing"
+    ]
+  },
+  {
+    "value": "stomach pain",
+    "synonyms": [
+      "stomach pain",
+      "heavy",
+      "heavy stomach"
+    ]
+  }
+]

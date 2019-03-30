@@ -1,0 +1,203 @@
+[
+  {
+    "id": "5e88c43a-2f6d-43e5-b6a1-9f0f97667090",
+    "data": [
+      {
+        "text": "ok, I will certainly do it. Thanks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8a7c174b-f457-4a11-866c-bf6d13bad654",
+    "data": [
+      {
+        "text": "Bye",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "38d028de-c1e9-4b8e-82d3-d448a6d09f93",
+    "data": [
+      {
+        "text": "Certainly. It was nice talking to you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "310e733a-fe8a-4566-8ccf-209565b27afe",
+    "data": [
+      {
+        "text": "ok, thanks ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "54b84dbf-000e-4c56-8e1a-2f18aa0a50af",
+    "data": [
+      {
+        "text": "bye",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "611a65fb-414c-4d4b-9464-8317ee2e4f15",
+    "data": [
+      {
+        "text": "ok, thanks. I feel better now",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "150cace5-3b04-4802-8eab-7f4adf86a3c7",
+    "data": [
+      {
+        "text": "It was nice talking to you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "af97b894-3820-4ee9-b96d-3ed78130270a",
+    "data": [
+      {
+        "text": "tata",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "70e43bfc-4553-4523-bebb-0c52278cdd66",
+    "data": [
+      {
+        "text": "Thanks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523136919
+  },
+  {
+    "id": "b94e2c11-f6b0-4b2b-86b5-63c6a2397461",
+    "data": [
+      {
+        "text": "Thank you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523136919
+  },
+  {
+    "id": "5f6174b8-a5cc-47d4-aef5-963cd5f47547",
+    "data": [
+      {
+        "text": "cya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523137668
+  },
+  {
+    "id": "ee85cc3e-0811-4d39-9f78-9096d26b2ad3",
+    "data": [
+      {
+        "text": "have a good day",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523137668
+  },
+  {
+    "id": "26d38b45-1a4c-4616-87c9-ed1797d2eeae",
+    "data": [
+      {
+        "text": "It was ",
+        "userDefined": false
+      },
+      {
+        "text": "nice",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " spending time with you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523136919
+  },
+  {
+    "id": "9137ce67-8b13-41e1-8401-cbd3fbffd7de",
+    "data": [
+      {
+        "text": "I would love to come back",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523136919
+  },
+  {
+    "id": "5984eaa3-3577-456e-a39a-08242fee44e3",
+    "data": [
+      {
+        "text": "It has been an interesting conversation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523136919
+  },
+  {
+    "id": "23570f49-4477-4863-8eae-83e8f7b729b6",
+    "data": [
+      {
+        "text": "I feel much happier after talking to you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523136919
+  }
+]

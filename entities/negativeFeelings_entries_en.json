@@ -1,0 +1,74 @@
+[
+  {
+    "value": "not going great",
+    "synonyms": [
+      "not going great"
+    ]
+  },
+  {
+    "value": "lonely",
+    "synonyms": [
+      "lonely"
+    ]
+  },
+  {
+    "value": "not so good",
+    "synonyms": [
+      "not so good"
+    ]
+  },
+  {
+    "value": "angry",
+    "synonyms": [
+      "angry",
+      "temper",
+      "furious",
+      "hurt"
+    ]
+  },
+  {
+    "value": "not doing good",
+    "synonyms": [
+      "not doing good"
+    ]
+  },
+  {
+    "value": "bad",
+    "synonyms": [
+      "bad",
+      "worse",
+      "worst",
+      "miserable",
+      "dying",
+      "bit under the weather",
+      "low",
+      "depressed",
+      "irritated",
+      "frustrated",
+      "ill",
+      "sick",
+      "awful",
+      "sad",
+      "lethargic"
+    ]
+  },
+  {
+    "value": "exhausted",
+    "synonyms": [
+      "exhausted",
+      "lethargic",
+      "not upto doing anything",
+      "tired",
+      "tired to death",
+      "dont feel like doing stuff"
+    ]
+  },
+  {
+    "value": "bored",
+    "synonyms": [
+      "bored",
+      "not in a mood",
+      "bored to death"
+    ]
+  }
+]

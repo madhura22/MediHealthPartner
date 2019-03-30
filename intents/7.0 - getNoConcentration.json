@@ -1,0 +1,48 @@
+{
+  "id": "3126238d-ce9e-4cc8-ad22-9975d7fd3c7c",
+  "name": "7.0 - getNoConcentration",
+  "auto": true,
+  "contexts": [
+    "noConcentration"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "explainActivities",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "7ed16df8-64a7-4231-9978-d071418bcaf4",
+          "dataType": "@negativeBoolean",
+          "name": "negativeBoolean",
+          "value": "$negativeBoolean",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "\"Concentration is the key to success\". And you are on the right path.\nLet us talk about the activities that you enjoy the most..",
+            "\"Concentration is the key to success\". \nLet us talk about what you enjoy the most..",
+            "\"Concentration is the key to success\". Way to go...\nI enjoy learning from conversations, how about you?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523130454,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,202 @@
+[
+  {
+    "id": "14278975-b037-4e91-b406-48e892043259",
+    "data": [
+      {
+        "text": "not really",
+        "alias": "negativeBoolean",
+        "meta": "@negativeBoolean",
+        "userDefined": false
+      },
+      {
+        "text": " i hardly sleep",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0ae0f1cf-6c7a-4ab7-826c-84ec7baa50af",
+    "data": [
+      {
+        "text": "almost ",
+        "userDefined": false
+      },
+      {
+        "text": "good",
+        "alias": "feelings",
+        "meta": "@feelings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6bb81679-a440-4c5c-b721-783421db4780",
+    "data": [
+      {
+        "text": "I am sleeping well",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524689410
+  },
+  {
+    "id": "1fb4cccd-be56-414a-89a9-30d84588e3c3",
+    "data": [
+      {
+        "text": "no",
+        "alias": "negativeBoolean",
+        "meta": "@negativeBoolean",
+        "userDefined": false
+      },
+      {
+        "text": ". ",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524689410
+  },
+  {
+    "id": "2eaa0d1e-ea12-4073-92d9-ba6aecd94247",
+    "data": [
+      {
+        "text": "I am having ",
+        "userDefined": false
+      },
+      {
+        "text": "sound",
+        "alias": "feelings",
+        "meta": "@feelings",
+        "userDefined": false
+      },
+      {
+        "text": " sleep ",
+        "userDefined": false
+      },
+      {
+        "text": "from past 2 days",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524689410
+  },
+  {
+    "id": "ae480e9a-5a50-408e-8948-0dcaa47a8be8",
+    "data": [
+      {
+        "text": "sleeping normally",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1524689410
+  },
+  {
+    "id": "7edb84a9-7afa-4d8e-bba3-c9b077496145",
+    "data": [
+      {
+        "text": "i get ",
+        "userDefined": false
+      },
+      {
+        "text": "good",
+        "alias": "feelings",
+        "meta": "@feelings",
+        "userDefined": false
+      },
+      {
+        "text": " sleep",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524689410
+  },
+  {
+    "id": "ffb87495-532b-4d1a-9833-dcd1f25f47f1",
+    "data": [
+      {
+        "text": "no",
+        "alias": "negativeBoolean",
+        "meta": "@negativeBoolean",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1524689410
+  },
+  {
+    "id": "70b07507-1541-430f-93fc-f80cfb831e1c",
+    "data": [
+      {
+        "text": "nah..",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524689410
+  },
+  {
+    "id": "034561ab-65d3-413c-89f8-4db3b7b6cebd",
+    "data": [
+      {
+        "text": "I dont think so, I am having a good sleep",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524689410
+  },
+  {
+    "id": "e5c694e0-a4a0-46c8-9835-ed14aa078f56",
+    "data": [
+      {
+        "text": "not really",
+        "alias": "negativeBoolean",
+        "meta": "@negativeBoolean",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524689410
+  },
+  {
+    "id": "15296a2b-8586-441d-add8-2d9b281f541e",
+    "data": [
+      {
+        "text": "nope",
+        "alias": "negativeBoolean",
+        "meta": "@negativeBoolean",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524689410
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "value": "yes",
+    "synonyms": [
+      "yes",
+      "sure",
+      "true",
+      "yeah",
+      "absolutely",
+      "yo",
+      "yep"
+    ]
+  },
+  {
+    "value": "let\u0027s go ahead",
+    "synonyms": [
+      "let\u0027s go ahead"
+    ]
+  },
+  {
+    "value": "ok",
+    "synonyms": [
+      "ok"
+    ]
+  }
+]

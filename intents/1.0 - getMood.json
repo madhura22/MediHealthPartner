@@ -1,0 +1,88 @@
+{
+  "id": "65787f2a-006f-4390-94b8-c7d9fcbc1515",
+  "name": "1.0 - getMood",
+  "auto": true,
+  "contexts": [
+    "getTheFeels"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "getIncident",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "d49976fd-4620-4827-ae49-f2068b93f1d0",
+          "required": false,
+          "dataType": "@negativeFeelings",
+          "name": "negativeFeelings",
+          "value": "$negativeFeelings",
+          "isList": true
+        },
+        {
+          "id": "29231d17-8614-4f02-add3-1b78ac071778",
+          "required": false,
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "isList": false
+        },
+        {
+          "id": "c6d96835-cf41-4884-9fc8-6a41bedc36e9",
+          "required": false,
+          "dataType": "@sys.duration",
+          "name": "duration",
+          "value": "$duration",
+          "isList": false
+        },
+        {
+          "id": "3631a5a3-924c-492d-ac82-ec853b611e8e",
+          "required": false,
+          "dataType": "@feelings",
+          "name": "feelings",
+          "value": "$feelings",
+          "isList": false
+        },
+        {
+          "id": "80d9eea0-0801-4994-b70a-83cde028cde1",
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "It\u0027s good to hear that you are $feelings.\nWhen you think positive, good things happen.",
+            "It\u0027s good to hear that you are $feelings.\nDon\u0027t stop. Push harder. Keep going!",
+            "It sounds like you are upset. I understand that you are $negativeFeelings. Let me cheer you up!\nIs there an incident that\u0027s concerning you?",
+            "It sounds like you are upset. I understand that you are $negativeFeelings. Let me cheer you up!\nIs there an incident that\u0027s bothering or troubling you.",
+            "Life is going to be good. I can feel you are $negativeFeelings.\nDo you want to share an incident that\u0027s causing you sorrow?",
+            "Life is going to be good. I can feel you are $negativeFeelings.\nDo you want to share an incident that\u0027s making you feel low?",
+            "Life is going to be good. I can feel you are $negativeFeelings.\nDo you want to share an incident that\u0027s making you feel low. You can be honest and open with me.",
+            "Life is going to be good. I can feel you are $negativeFeelings.\nDo you want to share an incident that\u0027s making you feel low. You can be honest and open with me. This is totally between us.",
+            "Life is going to be good. I can feel you are $negativeFeelings.\nDo you want to share an incident that\u0027s making you feel low. You can be honest and open with me. Trust me on that!",
+            "the time now is $time"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1525227487,
+  "fallbackIntent": false,
+  "events": []
+}

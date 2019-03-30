@@ -1,0 +1,54 @@
+{
+  "id": "d61d287e-8510-49ea-83e7-d467680af0ed",
+  "name": "6.0 - yesSleepCycle",
+  "auto": true,
+  "contexts": [
+    "getYesSleepCycle"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "yesConcetration",
+          "parameters": {},
+          "lifespan": 2
+        },
+        {
+          "name": "noConcentration",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "f17761a4-b93f-465e-a564-3dd7580a508d",
+          "required": false,
+          "dataType": "@positiveBoolean",
+          "name": "positiveBoolean",
+          "value": "$positiveBoolean",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Most healthy adults need between 7 to 9 hours of sleep per night to function at their best. Find out more information here - \nhttps://sleepfoundation.org/excessivesleepiness/content/how-much-sleep-do-we-really-need-0\nLet me ask you this - Do you find it difficult to concentrate on your daily tasks?",
+            "Most healthy adults need between 7 to 9 hours of sleep per night to function at their best. Find out more information here - \nhttps://sleepfoundation.org/excessivesleepiness/content/how-much-sleep-do-we-really-need-0\nLet me ask you this - Do you find it difficult to concentrate on your daily activities?",
+            "Most healthy adults need between 7 to 9 hours of sleep per night to function at their best. Find out more information here - \nhttps://sleepfoundation.org/excessivesleepiness/content/how-much-sleep-do-we-really-need-0\nLet me ask you this - Do you find it difficult to concentrate on your day-to-day tasks?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524689364,
+  "fallbackIntent": false,
+  "events": []
+}

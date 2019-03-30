@@ -1,0 +1,62 @@
+{
+  "id": "9bf6636d-5f5c-4cce-be8d-ed7eff656f80",
+  "name": "5.0 - askAppetite",
+  "auto": true,
+  "contexts": [
+    "getNoIncident"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "getYesAppetite",
+          "parameters": {},
+          "lifespan": 2
+        },
+        {
+          "name": "getNoAppetite",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "cb0bc8dc-6089-4f76-a90a-3b0039eb208b",
+          "required": false,
+          "dataType": "@feelings",
+          "name": "feelings",
+          "value": "$feelings",
+          "isList": false
+        },
+        {
+          "id": "833ebf4d-ad36-4e90-a9af-923a5316084f",
+          "required": false,
+          "dataType": "@positiveBoolean",
+          "name": "positiveBoolean",
+          "value": "$positiveBoolean",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "So, here\u0027s something on top of my mind. Let\u0027s hear about your appetite. \nHave you had any sudden weight loss or gain?",
+            "So, here\u0027s something on top of my mind. Let\u0027s talk about your appetite. \nHave you had any sudden changes in your weight?",
+            "So, here\u0027s something on top of my mind. Let\u0027s hear about your appetite. \nHave you had any sudden changes in your body weight?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523132514,
+  "fallbackIntent": false,
+  "events": []
+}

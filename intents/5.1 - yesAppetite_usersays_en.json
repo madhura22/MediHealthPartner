@@ -1,0 +1,88 @@
+[
+  {
+    "id": "d616a1ce-6c73-499a-b14c-2650ccba2799",
+    "data": [
+      {
+        "text": "it wasn\u0027t good that much ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2121ccfd-515f-4918-b388-e833e3a1ae5d",
+    "data": [
+      {
+        "text": "my appetite was bad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ecad85de-865d-4a62-b35f-f51caf97094e",
+    "data": [
+      {
+        "text": "okay",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523126047
+  },
+  {
+    "id": "d159f43c-18f1-4611-94d4-ea5c0caaab14",
+    "data": [
+      {
+        "text": "ok,",
+        "alias": "positiveBoolean",
+        "meta": "@positiveBoolean",
+        "userDefined": false
+      },
+      {
+        "text": " I have good appetite",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ba4da3f7-5990-4fad-8877-dd92936acc97",
+    "data": [
+      {
+        "text": "sure",
+        "alias": "positiveBoolean",
+        "meta": "@positiveBoolean",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523126047
+  },
+  {
+    "id": "ffa964dc-6244-4099-bbca-d8a5ea7b13bf",
+    "data": [
+      {
+        "text": "yes,",
+        "alias": "positiveBoolean",
+        "meta": "@positiveBoolean",
+        "userDefined": false
+      },
+      {
+        "text": " my appetite is good",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523132548
+  }
+]

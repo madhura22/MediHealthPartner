@@ -1,0 +1,77 @@
+{
+  "id": "5a58cd5c-dbd8-4515-bab1-603e9dc5f2dc",
+  "name": "6.1 - noSleepCycle",
+  "auto": true,
+  "contexts": [
+    "getNoSleepCycle"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "noConcentration",
+          "parameters": {},
+          "lifespan": 2
+        },
+        {
+          "name": "yesConcetration",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "0607e51d-ac2c-4644-a82f-62cc3f120210",
+          "required": false,
+          "dataType": "@negativeBoolean",
+          "name": "negativeBoolean",
+          "value": "$negativeBoolean",
+          "isList": false
+        },
+        {
+          "id": "962e2ee6-98ab-4dda-82f7-69333324d0b4",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "any",
+          "value": "$any",
+          "isList": false
+        },
+        {
+          "id": "c6acd20d-9ae8-4d36-8bc0-4ec48517b659",
+          "required": false,
+          "dataType": "@feelings",
+          "name": "feelings",
+          "value": "$feelings",
+          "isList": false
+        },
+        {
+          "id": "7c601931-ef99-4bb1-8c22-817aa9c63e0f",
+          "required": false,
+          "dataType": "@sys.date-period",
+          "name": "date-period",
+          "value": "$date-period",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "I am glad that you are having good sleep. Let me ask you this - Do you find it difficult to concentrate on your daily tasks?",
+            "I don\u0027t sleep but I am happy for you. Let me ask you this - Do you find it hard to concentrate on your daily activities?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524689410,
+  "fallbackIntent": false,
+  "events": []
+}

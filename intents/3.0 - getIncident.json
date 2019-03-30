@@ -1,0 +1,79 @@
+{
+  "id": "f9fd7032-eb23-4680-ae7b-d09b0215a6d7",
+  "name": "3.0 - getIncident",
+  "auto": true,
+  "contexts": [
+    "getIncident"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "getYesIncident",
+          "parameters": {},
+          "lifespan": 2
+        },
+        {
+          "name": "getNoIncident",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "e5037388-afa4-4ec1-8033-b697490b01b7",
+          "required": false,
+          "dataType": "@positiveBoolean",
+          "name": "positiveBoolean",
+          "value": "$positiveBoolean",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Sorry, was that a yes or no?"
+            },
+            {
+              "lang": "en",
+              "value": "Let me know if you want to share your incident or move on?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "fff3f2b0-f167-436e-b779-4b3db79412d1",
+          "required": false,
+          "dataType": "@negativeBoolean",
+          "name": "negativeBoolean",
+          "value": "$negativeBoolean",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Let me know if you want to share your incident or move on?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Good that you said $positiveBoolean\nI am listening...",
+            "I see it\u0027s a $negativeBoolean. That\u0027s fine.\nLet\u0027s talk about something else...",
+            "I see it\u0027s a $negativeBoolean. That\u0027s fine.\nLet\u0027s talk about something else...Let me think what topic will interest you",
+            "Good that you said $positiveBoolean\nI am listening. Let\u0027s hear it out."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524690332,
+  "fallbackIntent": false,
+  "events": []
+}

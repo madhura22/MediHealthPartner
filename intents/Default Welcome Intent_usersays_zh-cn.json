@@ -1,0 +1,76 @@
+[
+  {
+    "id": "989026fa-0095-44b9-bfda-3866dff97146",
+    "data": [
+      {
+        "text": "下午",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "好",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525062411
+  },
+  {
+    "id": "81f3f75d-bc18-49d2-b912-d89c35620a9b",
+    "data": [
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "早上",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "好",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525062411
+  },
+  {
+    "id": "c1d53acc-9879-4a87-b071-048d9bad5fe0",
+    "data": [
+      {
+        "text": " 哟",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525060570
+  },
+  {
+    "id": "bd52767d-2984-4a99-8e96-97896b4c7e53",
+    "data": [
+      {
+        "text": " 你好",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1525060570
+  },
+  {
+    "id": "db7e2cd0-e7eb-4d16-ba5e-982569bbff60",
+    "data": [
+      {
+        "text": " 嗨",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525060570
+  }
+]
