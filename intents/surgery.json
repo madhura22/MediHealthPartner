@@ -1,0 +1,72 @@
+{
+  "id": "a949d630-aba6-46cb-9d02-ef5a7a4c29aa",
+  "name": "surgery",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a2fc5d7b-e171-4899-92af-f8f176c61734",
+          "required": false,
+          "dataType": "@surgerytypes",
+          "name": "crainiotomy",
+          "value": "$crainiotomy",
+          "prompts": [],
+          "isList": false
+        },
+        {
+          "id": "a11a2601-0bf8-4427-be6a-735c3e68836e",
+          "required": false,
+          "dataType": "@surgerytypes",
+          "name": "neuroendescopy",
+          "value": "$neuroendescopy",
+          "isList": false
+        },
+        {
+          "id": "6fe22092-1bbf-4db7-bdff-6716acb6ae46",
+          "required": false,
+          "dataType": "@surgerytypes",
+          "name": "braintumour",
+          "value": "$braintumour",
+          "isList": false
+        },
+        {
+          "id": "9296a824-df45-4e14-9719-6d65c689b78c",
+          "required": false,
+          "dataType": "@feelings",
+          "name": "feelings",
+          "value": "$feelings",
+          "isList": false
+        },
+        {
+          "id": "4e6a94fa-3a81-44e4-b955-29b2b8714758",
+          "required": false,
+          "dataType": "@symptoms",
+          "name": "seizures",
+          "value": "$seizures",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "$crainiotomy",
+            "$seizures"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

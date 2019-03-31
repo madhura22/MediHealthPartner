@@ -1,0 +1,14 @@
+[
+  {
+    "value": "time",
+    "synonyms": [
+      "time"
+    ]
+  },
+  {
+    "value": "date",
+    "synonyms": [
+      "date"
+    ]
+  }
+]

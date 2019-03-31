@@ -1,0 +1,165 @@
+[
+  {
+    "id": "15d39c0c-1ed4-442d-8fd7-910b2568048f",
+    "data": [
+      {
+        "text": "i am having ",
+        "userDefined": false
+      },
+      {
+        "text": "headache",
+        "alias": "seizures",
+        "meta": "@symptoms",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b6eab72e-037c-458e-8a6a-e48446a16178",
+    "data": [
+      {
+        "text": "my body is having ",
+        "userDefined": false
+      },
+      {
+        "text": "seizures",
+        "alias": "seizures",
+        "meta": "@symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2a8a908a-38ad-4b9e-a8c8-61656231704b",
+    "data": [
+      {
+        "text": "i have ",
+        "userDefined": false
+      },
+      {
+        "text": "seizures",
+        "alias": "seizures",
+        "meta": "@symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c171b8f5-945a-4763-910b-7404ce004028",
+    "data": [
+      {
+        "text": "seizures",
+        "alias": "seizures",
+        "meta": "@symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "59f14d75-253f-4338-8ab3-a4d7bb1ef274",
+    "data": [
+      {
+        "text": "i am having ",
+        "userDefined": false
+      },
+      {
+        "text": "seizures",
+        "alias": "seizures",
+        "meta": "@symptoms",
+        "userDefined": true
+      },
+      {
+        "text": ",headaches,swelling,",
+        "userDefined": false
+      },
+      {
+        "text": "sad",
+        "alias": "feelings",
+        "meta": "@feelings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fa104fc9-6aec-4301-8ac5-62a66ed60490",
+    "data": [
+      {
+        "text": "what is done in ",
+        "userDefined": false
+      },
+      {
+        "text": "neuroendoscopy",
+        "alias": "crainiotomy",
+        "meta": "@surgerytypes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0025e647-bf04-4fc5-8c8e-faf5b86ac2d1",
+    "data": [
+      {
+        "text": "tell me about ",
+        "userDefined": false
+      },
+      {
+        "text": "brain tumour",
+        "alias": "crainiotomy",
+        "meta": "@surgerytypes",
+        "userDefined": false
+      },
+      {
+        "text": " surgery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4a75db9e-fd1c-4488-a483-a235e6d2a8a8",
+    "data": [
+      {
+        "text": "tell me about ",
+        "userDefined": false
+      },
+      {
+        "text": "neuroendescopy",
+        "alias": "crainiotomy",
+        "meta": "@surgerytypes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c4b8f830-66b4-408a-b5e0-0cd3874feb37",
+    "data": [
+      {
+        "text": "tell me about ",
+        "userDefined": false
+      },
+      {
+        "text": "crainiotomy",
+        "alias": "crainiotomy",
+        "meta": "@surgerytypes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

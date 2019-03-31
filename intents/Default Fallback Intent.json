@@ -1,5 +1,5 @@
 {
-  "id": "c2ff1fd5-f8d5-4f50-8db6-22c6d9ced3b8",
+  "id": "6793780a-8a29-4872-9ec0-6315b8460159",
   "name": "Default Fallback Intent",
   "auto": true,
   "contexts": [],
@@ -10,17 +10,6 @@
       "affectedContexts": [],
       "parameters": [],
       "messages": [
-        {
-          "type": 0,
-          "lang": "zh-cn",
-          "speech": [
-            "对不起，我听不懂你的问题。",
-            "请你再说一遍。",
-            "我怕我听不懂你的话。",
-            "我对最后的部分还有一些糊涂。",
-            "请再讲一次好吗？"
-          ]
-        },
         {
           "type": 0,
           "lang": "en",

@@ -1,0 +1,52 @@
+{
+  "id": "6e8bbe1b-3abe-45e0-9b3c-d00ac909590c",
+  "name": "appointment1",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "1b9f8b45-53d7-4fda-8af0-cd679d6256d6",
+          "required": true,
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "isList": false
+        },
+        {
+          "id": "e06425d6-9b30-4412-97ff-c97ae7932341",
+          "required": true,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        },
+        {
+          "id": "32c7e005-f5c6-4f61-9270-47d383d4dc1f",
+          "required": true,
+          "dataType": "@doctors",
+          "name": "doctors",
+          "value": "$doctors",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "your appointment is fixed for $date at $time with $doctors"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

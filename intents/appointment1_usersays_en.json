@@ -1,0 +1,52 @@
+[
+  {
+    "id": "6a1f545d-5630-451f-af3e-04831fb8b721",
+    "data": [
+      {
+        "text": "book an appointment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cda8ac77-a725-48ce-bc88-7d680c028b3d",
+    "data": [
+      {
+        "text": "give me an appointment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0fa37330-bbc0-48ed-9744-1fc86e8260f2",
+    "data": [
+      {
+        "text": "fix an appointment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "41d1796b-bea7-4abe-b620-02f769742dae",
+    "data": [
+      {
+        "text": "can i have an appointment ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

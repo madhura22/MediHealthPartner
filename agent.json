@@ -8,8 +8,8 @@
   "disableInteractionLogs": false,
   "disableStackdriverLogs": true,
   "googleAssistant": {
-    "googleAssistantCompatible": false,
-    "project": "bleh-cb919",
+    "googleAssistantCompatible": true,
+    "project": "medihealth-ceaa6",
     "welcomeIntentSignInRequired": false,
     "startIntents": [],
     "systemIntents": [],
@@ -23,6 +23,7 @@
     "voiceType": "MALE_1",
     "capabilities": [],
     "protocolVersion": "V2",
+    "autoPreviewEnabled": true,
     "isDeviceAgent": false
   },
   "defaultTimezone": "America/New_York",
@@ -35,9 +36,7 @@
   "isPrivate": true,
   "customClassifierMode": "use.after",
   "mlMinConfidence": 0.3,
-  "supportedLanguages": [
-    "zh-cn"
-  ],
+  "supportedLanguages": [],
   "onePlatformApiVersion": "v1legacy",
   "analyzeQueryTextSentiment": false,
   "enabledKnowledgeBaseNames": [],

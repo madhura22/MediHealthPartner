@@ -1,0 +1,35 @@
+[
+  {
+    "value": "this may be caused because of crainiotomy, please get some rest or contact your doctor",
+    "synonyms": [
+      "seizures",
+      "headache",
+      "brain swelling",
+      "depression"
+    ]
+  },
+  {
+    "value": "this may be caused because of your brain tumour surgery, please get some rest or contact your doctor",
+    "synonyms": [
+      "communication difficulties",
+      "speech impaired",
+      "cannot speak properly",
+      "stammering",
+      "cannot talk",
+      "difficult to communicate",
+      "not able to talk",
+      "unable to talk"
+    ]
+  },
+  {
+    "value": "this may be caused because of neuroendoscopy, please get some rest or contact your doctor",
+    "synonyms": [
+      "stroke",
+      "coordination problem",
+      "dizziness",
+      "anxiety",
+      "dizzy",
+      "feeling dizzy"
+    ]
+  }
+]

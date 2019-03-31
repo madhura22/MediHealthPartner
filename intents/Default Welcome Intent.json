@@ -1,5 +1,5 @@
 {
-  "id": "0b801ff4-1174-4200-a6cc-c924f87293f1",
+  "id": "98557c75-039c-41b5-bae7-9fd97879629c",
   "name": "Default Welcome Intent",
   "auto": true,
   "contexts": [],
@@ -20,17 +20,9 @@
           "type": 0,
           "lang": "en",
           "speech": [
-            "Hi there, my name is CODE-Y. You can think of me as your companion and talk to me freely. Tell me your name?",
-            "Hi there, my name is CODE-Y. You can share your feelings with me. You know my name, how about your name?",
-            "Hi there, my name is CODE-Y. You can share your feelings with me. This is strictly between us ;)\nWhat do you want me to call you?"
-          ]
-        },
-        {
-          "type": 0,
-          "lang": "zh-cn",
-          "speech": [
-            "您好，我的名字是Achelois。你可以和我分享你的感受。这完全在我们之间;）\n你想让我给你打电话什么？",
-            "您好，我的名字是Achelois。你可以把我当作你的伴侣，随意与我交谈。告诉我你的名字？"
+            "Hi there, my name is CODE-Y. You can think of me as your companion and talk to me freely. how are you feeling now? are u better after procedure?",
+            "Hi there, my name is CODE-Y. You can share your feelings with me. You know my name, how are you feeling now? are u better after procedure?",
+            "Hi there, my name is CODE-Y. You can share your feelings with me. This is strictly between us ;)\nhow are you feeling now? are u better after procedure?"
           ]
         }
       ],

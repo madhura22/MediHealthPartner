@@ -1,0 +1,19 @@
+[
+  {
+    "id": "ccae1b90-22eb-430f-8a42-6e3328513148",
+    "data": [
+      {
+        "text": "can I have an appointment ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

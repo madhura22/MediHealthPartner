@@ -1,0 +1,23 @@
+[
+  {
+    "id": "e94885cd-bce8-4ba0-a411-da09209f875a",
+    "data": [
+      {
+        "text": "want to confirm at ",
+        "userDefined": false
+      },
+      {
+        "text": "10 am",
+        "alias": "time",
+        "meta": "@time",
+        "userDefined": true
+      },
+      {
+        "text": " on 1 April Dr. Rahul Available?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]
